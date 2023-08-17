@@ -1,0 +1,12 @@
+/* TYPOGRAPHY */
+/*  font family */
+/* browser can fall on the next font if the first isnt available . we call that a font stack.*/
+/* emmet for font family is ctrl+ space bar */
+/* third font is the generic one */
+/* generic fonts include serif, sans-serif, cursive, fantasy,monospace */
+body{
+ font-family:'Courier New', Courier, monospace
+}
+h1{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
